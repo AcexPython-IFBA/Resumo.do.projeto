@@ -1,4 +1,3 @@
-```markdown
 # **Relatório de ACEX 1: Python e Potencialidades**
 
 ## **Título**
@@ -69,7 +68,5 @@ O projeto **ACEX Python e Potencialidades** teve como objetivo ministrar um **mi
 📌 **Google Colab (exemplos de código):** [Acesse aqui](https://colab.research.google.com/drive/1aMICD19jt2kV08z7pHlrgV99VFrQHtst?authuser=1#scrollTo=22gCbOzUjwEK)  
 📌 **Canal no YouTube (vídeos didáticos):** [Acesse aqui](https://youtube.com/@minicurso_pythonjogos?si=iqjkrGYYEklKDI2a)  
 📌 **Repositório no GitHub:** [Acesse aqui](https://github.com/AcexPython-IFBA)  
-📌 **Google Drive (todos os materiais):** [Acesse aqui](https://drive.google.com/drive/folders/16Ww0Regz7Rdc5xKdup6pGpMaxT-gq8dF?usp=drive_link)  
-
-```
+📌 **Google Drive (todos os materiais):** [Acesse aqui](https://drive.google.com/drive/folders/16Ww0Regz7Rdc5xKdup6pGpMaxT-gq8dF?usp=drive_link) 
 
