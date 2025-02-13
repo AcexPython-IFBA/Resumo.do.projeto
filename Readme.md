@@ -97,6 +97,7 @@ O curso foi voltado especialmente para alunos do ensino médio, principalmente d
 - **Instagram do Projeto:** [Inserir Link Aqui]
 
 ## 📷 Galeria de Fotos
+![Imagem 9](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/WhatsApp%20Image%202025-02-12%20at%2022.36.12.jpeg?raw=true)
 ![Imagem 1](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/Captura%20de%20tela%202025-02-12%20221915.png?raw=true)
 ![Imagem 2](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/WhatsApp%20Image%202025-02-12%20at%2022.36.09.jpeg?raw=true)
 ![Imagem 3](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/WhatsApp%20Image%202025-02-12%20at%2022.36.10%20(1).jpeg?raw=true)
