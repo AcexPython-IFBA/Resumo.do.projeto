@@ -1,72 +1,73 @@
-# **Relatório de ACEX 1: Python e Potencialidades**
+# Relatório de ACEX 1: Python e Potencialidades
 
-## **Título**
-**Relatório do Minicurso de Introdução a Python através de Jogos**
+## 📌 Título: Relatório do Minicurso de Introdução a Python através de Jogos
 
-## **Equipe**
-- Ana Luiza Freitas Brito Sirqueira  
-- Filipe Freitas Santos  
-- Pedro César Padre Lima  
-- Gustavo Carvalho Silva  
-- Maria Eduarda Santos Campos  
-
-## **Período de Execução**
+**Componentes:** Ana Luiza Freitas Brito Sirqueira, Filipe Freitas Santos, Pedro César Padre Lima, Gustavo Carvalho Silva, Maria Eduarda Santos Campos.  
+**Orientador:** Professor Allan Soares
+**Período de Execução:**
 - **Planejamento:** Setembro/2024 a Dezembro/2024  
 - **Primeira Aplicação:** 03/12/2024 a 06/12/2024  
 - **Segunda Aplicação:** 16/12/2024 a 19/12/2024  
 
-## **Resumo**
-O projeto **ACEX Python e Potencialidades** teve como objetivo ministrar um **minicurso introdutório de Python**, utilizando jogos como abordagem didática para tornar o aprendizado mais interativo e acessível. O público-alvo definido foram **alunos do ensino médio**, especialmente do terceiro ano, visando não apenas introduzi-los à programação, mas também apresentar o curso de **Sistemas de Informação** do IFBA.
+## 🔍 Resumo
+A ACEX foi um projeto de extensão realizado pelos estudantes do IFBA, cujo tema foi **Python através de jogos**. O objetivo foi ensinar os conceitos básicos da linguagem de programação Python de forma interativa e acessível, utilizando jogos simples como **jogo da forca** e **jogo da velha**. O minicurso foi estruturado em **quatro dias de aulas**, sendo dois focados na introdução ao Python e dois na construção dos jogos, a aplicação do curso ocorreu duas vezes.
 
-## **Metodologia de Execução das Atividades**
+O projeto foi cuidadosamente planejado ao longo do ano de 2024, com reuniões de brainstorming para definir o público-alvo, estratégias de divulgação e materiais didáticos. A execução contou com suporte do professor Allan e envolveu um esforço coletivo para alcançar estudantes do ensino médio que não tinham contato prévio com programação.
 
-### **1. Definição do Projeto**
-- Determinação da **natureza do projeto** e identificação do **público-alvo**.  
-- Discussão inicial sobre **atividades, cronograma e divisão de tarefas** entre os membros.  
-- Escolha de um **formato acessível e remoto** devido às limitações de infraestrutura do IFBA.  
+## 📖 Metodologia de Execução
+1. **Definição do público-alvo e atividades**  
+   - O minicurso foi voltado para **alunos do ensino médio**, especialmente do 3º ano, como forma de introduzi-los à programação e também apresentar o curso de Sistemas de Informação do IFBA, porém além deles o curso era pra todos os tipos de públicos e idades.
+   
+2. **Divulgação e recrutamento**  
+   - Visitamos o **Colégio da Polícia Militar Eraldo Tinoco** em Vitória da Conquista, onde abordamos os alunos durante o período de formação.
+   - Criamos materiais de divulgação, incluindo **panfletos físicos e digitais**, e utilizamos grupos do **WhatsApp** para comunicação direta.
+   - Divulgamos o curso na **internet** por meio de um perfil no **Instagram** e em grupos de **WhatsApp**.
+   
+3. **Execução das aulas**  
+   - O curso foi realizado **de forma online**.
+   - Utilizamos o **Google Colab** para a prática de código.
+   - Os encontros foram divididos em dois momentos:
+     - **Primeiros dois dias:** Introdução à linguagem Python.
+     - **Últimos dois dias:** Desenvolvimento dos jogos.
+   - Criamos materiais assíncronos, como vídeos no **YouTube**, para suporte extra.
+   
+4. **Atividades e materiais**  
+   - Além das aulas ao vivo, disponibilizamos exercícios práticos e desafios.
+   - O código-fonte dos jogos foi compartilhado via **GitHub**.
 
-### **2. Recrutamento e Divulgação**
-- Escolha do **Colégio da Polícia Militar Eraldo Tinoco** para divulgação.  
-- Elaboração de um **panfleto informativo** contendo:
-  - Período do minicurso.  
-  - QR Code para o grupo do WhatsApp.  
-  - Informações sobre os encontros e materiais complementares.  
-- **Divulgação presencial** nos **períodos matutino e noturno**, aproveitando o momento de formação dos alunos.  
-- **Uso de murais da escola** e contato com **líderes de turma** para reforçar o convite.  
+## 🎯 Público Atendido
+- **Público externo:** 19 inscritos e 8 certificados.
+- **Público interno (IFBA):** 52 inscritos e 24 certificados.
 
-![Imagem de panfleto - inserir link](#)
+## 🚧 Dificuldades Encontradas
+- **Falta de experiência com ACEX:** Sendo o primeiro projeto de extensão dos membros do grupo, houve desafios na organização e na definição do escopo do projeto.
+- **Definição do público-alvo:** Precisamos de tempo para escolher um grupo que realmente se beneficiasse do minicurso.
+- **Divulgação e recrutamento:** Elaboramos materiais visuais e negociamos com a equipe pedagógica da escola para garantir um bom alcance.
+- **Engajamento dos participantes:** Manter a motivação dos alunos foi um desafio, exigindo estratégias como o uso de WhatsApp e vídeos complementares.
 
-### **3. Execução do Minicurso**
-- Encontros online para apresentação dos conceitos básicos de **Python**.  
-- Uso de **jogos** como metodologia de ensino para maior engajamento.  
-- Material complementar disponível via **Google Drive, YouTube e GitHub**.  
-- Grupo no **WhatsApp** para suporte e dúvidas.  
+## 📚 Lições Aprendidas
+- **Importância do planejamento inicial:** Definir claramente o público, atividades e cronograma desde o início ajudou na execução.
+- **Comunicação direta é essencial:** A abordagem presencial foi mais eficiente do que a divulgação apenas digital.
+- **Flexibilidade para lidar com imprevistos:** Adaptamos estratégias ao longo do projeto para superar desafios.
+- **Parcerias são valiosas:** Contar com escolas onde membros do grupo estudaram facilitou a organização.
 
-![Imagem de aula - inserir link](#)
+## 📎 Links e Materiais
+- **Google Colab:** [Acesse aqui](https://colab.research.google.com/drive/1aMICD19jt2kV08z7pHlrgV99VFrQHtst?authuser=1#scrollTo=22gCbOzUjwEK)
+- **YouTube (Material em vídeo):** [Canal do minicurso](https://youtube.com/@minicurso_pythonjogos?si=iqjkrGYYEklKDI2a)
+- **GitHub:** [Repositório do projeto](https://github.com/AcexPython-IFBA)
+- **Google Drive (Todos os materiais):** [Acesse aqui](https://drive.google.com/drive/folders/16Ww0Regz7Rdc5xKdup6pGpMaxT-gq8dF?usp=drive_link)
 
-## **Público Atendido**
-- **Externo (alunos do ensino médio):**  
-  - **19 inscritos**  
-  - **8 certificados emitidos**  
-- **Interno (comunidade IFBA):**  
-  - **52 inscritos**  
-  - **24 certificados emitidos**  
+## 🖼️ Imagens do Projeto:
 
-## **Dificuldades Encontradas**
-- **Falta de experiência com ACEX**: Primeira atividade de extensão do grupo, exigindo um esforço extra para organização.  
-- **Definição do público-alvo**: Escolher um grupo adequado exigiu planejamento e estratégias de contato com as escolas.  
-- **Recrutamento e divulgação**: Necessidade de negociar com a equipe pedagógica e elaborar materiais atrativos.  
-- **Engajamento dos participantes**: Manter o interesse dos alunos ao longo do minicurso foi desafiador, exigindo adaptação das estratégias.  
-
-## **Licoes Aprendidas**
-- **Importância do planejamento inicial**: Uma definição clara de público-alvo e atividades evitou contratempos.  
-- **Comunicação direta é essencial**: A divulgação presencial teve um impacto maior do que a digital.  
-- **Flexibilidade na execução**: Adaptar-se rapidamente a imprevistos foi crucial para o sucesso do projeto.  
-- **Parcerias estratégicas**: Contar com escolas parceiras facilitou a organização e o recrutamento de participantes.  
-
-## **Materiais do Minicurso**
-📌 **Google Colab (exemplos de código):** [Acesse aqui](https://colab.research.google.com/drive/1aMICD19jt2kV08z7pHlrgV99VFrQHtst?authuser=1#scrollTo=22gCbOzUjwEK)  
-📌 **Canal no YouTube (vídeos didáticos):** [Acesse aqui](https://youtube.com/@minicurso_pythonjogos?si=iqjkrGYYEklKDI2a)  
-📌 **Repositório no GitHub:** [Acesse aqui](https://github.com/AcexPython-IFBA)  
-📌 **Google Drive (todos os materiais):** [Acesse aqui](https://drive.google.com/drive/folders/16Ww0Regz7Rdc5xKdup6pGpMaxT-gq8dF?usp=drive_link) 
+![Imagem 1](#)  
+![Imagem 2](#)  
+![Imagem 3](#)
+![Imagem 4](#)  
+![Imagem 5](#)  
+![Imagem 6](#)
+![Imagem 7](#)  
+![Imagem 8](#)  
+![Imagem 9](#)
+![Imagem 10](#)  
+![Imagem 11](#)  
 
