@@ -106,5 +106,9 @@ O curso foi voltado especialmente para alunos do ensino médio, principalmente d
 ![Imagem 7](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/WhatsApp%20Image%202025-02-12%20at%2022.36.17.jpeg?raw=true)
 ![Imagem 8](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/WhatsApp%20Image%202025-02-12%20at%2022.36.18%20(1).jpeg?raw=true)
 ![Imagem 9](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/WhatsApp%20Image%202025-02-12%20at%2022.36.18.jpeg?raw=true)
-![Imagem 10](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/WhatsApp%20Image%202025-02-12%20at%2022.36.19.jpeg?raw=true) 
+![Imagem 10](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/WhatsApp%20Image%202025-02-12%20at%2022.36.19.jpeg?raw=true)
+![Imagem 11]()
+![Imagem 12]()
+![Imagem 13]()
+![Imagem 14]()
 
