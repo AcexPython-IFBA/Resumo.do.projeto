@@ -57,45 +57,6 @@ O projeto foi cuidadosamente planejado ao longo do ano de 2024, com reuniões de
 - **GitHub:** [Repositório do projeto](https://github.com/AcexPython-IFBA)
 - **Google Drive (Todos os materiais):** [Acesse aqui](https://drive.google.com/drive/folders/16Ww0Regz7Rdc5xKdup6pGpMaxT-gq8dF?usp=drive_link)
 
-## 🖼️ Imagens do Projeto:
-
-# Resumo do Projeto de Extensão ACEX - Python e Potencialidades
-
-## 📌 Sobre o Projeto
-A ACEX foi um projeto de extensão realizado por nós, estudantes do IFBA, com orientação do professor Alan. O objetivo era ensinar introdução à programação em Python por meio de jogos básicos, tornando o aprendizado mais dinâmico e acessível.
-
-## 🎯 Metodologia
-Durante o ano de 2024, planejamos todas as etapas do projeto. A aplicação do minicurso ocorreu em dezembro e teve quatro dias de duração:
-- **Dias 1 e 2:** Introdução à linguagem Python.
-- **Dias 3 e 4:** Desenvolvimento de jogos básicos, como jogo da forca e jogo da velha.
-
-## 📢 Divulgação
-Para alcançar um maior número de participantes, utilizamos diferentes estratégias de divulgação:
-- **Visitas presenciais** ao Colégio da Polícia Militar (CPM) de Vitória da Conquista.
-- **Divulgação online**, incluindo grupos de WhatsApp e um perfil no Instagram.
-- **Materiais informativos** com QR codes para facilitar a inscrição.
-
-## 🏫 Público-Alvo
-O curso foi voltado especialmente para alunos do ensino médio, principalmente do 3º ano, como forma de apresentar tanto a linguagem Python quanto o curso de Sistemas de Informação do IFBA.
-
-## 📚 Atividades Realizadas
-- Aulas introdutórias sobre Python.
-- Desenvolvimento de jogos básicos.
-- Exercícios práticos para fixação do conteúdo.
-- Suporte aos alunos via WhatsApp.
-
-## 📊 Resultados
-- **Total de inscritos:** 71 (internos e externos).
-- **Certificados emitidos:** 32.
-- **Feedbacks positivos** sobre a metodologia e acessibilidade do conteúdo.
-
-## 🔗 Links Importantes
-- **Google Colab:** [Inserir Link Aqui]
-- **Canal no YouTube:** [Inserir Link Aqui]
-- **Repositório no GitHub:** [Inserir Link Aqui]
-- **Google Drive (materiais do curso):** [Inserir Link Aqui]
-- **Instagram do Projeto:** [Inserir Link Aqui]
-
 ## 📷 Galeria de Fotos
 ![Imagem 9](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/WhatsApp%20Image%202025-02-12%20at%2022.36.12.jpeg?raw=true)
 ![Imagem 1](https://github.com/AcexPython-IFBA/Resumo.do.projeto/blob/main/Comprova%C3%A7%C3%A3o.fotos/Captura%20de%20tela%202025-02-12%20221915.png?raw=true)
